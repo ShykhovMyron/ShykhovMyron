@@ -6,7 +6,6 @@
 👨‍💻 **Interested in:**
   
 - ⚙️  Development lifecicle
-- 🧼  Data Processing and Analysis
 - 🆕  New technologies and frameworks
 </br>
 
