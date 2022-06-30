@@ -13,7 +13,7 @@
 
 🤝 <b>I’m looking to build and contribute to 🚀*revolutionary projects*🚀</b>
 
-📫 <b>Reach me at: robert.ciotoiu@gmail.com</b>
+📫 <b>Reach me at: shikhovmyron@gmail.com</b>
 
 </br>
 
