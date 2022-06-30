@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I’m @ShykhovMyron</h1>
 <h3 align="center">💻Java Software Engineer</h3>
-<p align="center">
+<p align="center"> 
 
   
 👨‍💻 **Interested in:**
