@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I’m @ShykhovMyron</h1>
+<h1 align="center"> Hi, I’m Myron</h1>
 <h3 align="center">💻Java Software Engineer</h3>
 <p align="center"> 
 
@@ -9,7 +9,7 @@
 - 🆕  New technologies and frameworks
 </br>
 
-📖 <b>Currently learning and improving on Spring, MongoDB, AWS, Kibernate</b>
+📖 <b>Currently learning and improving on Spring, MongoDB, AWS, Kubernetes</b>
 
 🤝 <b>I’m looking to build and contribute to 🚀*revolutionary projects*🚀</b>
 
