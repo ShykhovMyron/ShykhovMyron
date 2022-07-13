@@ -9,7 +9,7 @@
 - 🆕  New technologies and frameworks
 </br>
 
-📖 <b>Currently learning and improving on Spring, MongoDB, AWS, Kubernetes</b>
+📖 <b>Currently learning and improving on AWS, Docker, Kubernetes</b>
 
 🤝 <b>I’m looking to build and contribute to 🚀*revolutionary projects*🚀</b>
 
